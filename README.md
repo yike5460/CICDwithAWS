@@ -1,2 +1,2 @@
 # CICDwithAWS
-name self-explanation
+integration with code* series of AWS
